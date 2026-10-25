@@ -1,0 +1,12 @@
+# وابستگی‌ها
+node_modules/
+
+# خروجی بیلد
+dist/
+dist-ssr/
+*.local
+
+# لاگ‌ها و فایل‌های سیستم
+*.log
+.DS_Store
+Thumbs.db
